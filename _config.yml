@@ -1,4 +1,8 @@
-name: Hank Quinlan, Horrible Cop
+title: Garry Green
+description: A CV/Resume/Blog site for Garry Green
+name: Garry Green
+theme: jekyll-theme-minimal
 markdown: kramdown
-
 permalink: /blog/:year/:month/:day/:title
+logo: [Location of the logo]
+show_downloads: false
